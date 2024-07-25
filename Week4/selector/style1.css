@@ -1,0 +1,36 @@
+.classp1 >p {
+    color: brown;
+}
+div div p {
+    background-color: green;
+    color: white;
+}
+
+.classp2 > a{
+    color: blueviolet;
+}
+
+.classp2 > a:hover{
+    color: red;
+}
+
+.classp2 div a{
+    color: rgb(255, 80, 80);
+
+}
+
+#a1{
+    color: aqua;
+}
+
+#a2{
+    color: rgb(17, 0, 255);
+}
+
+#a1:hover{
+    color: rgb(251, 255, 0);
+}
+
+#a2:hover{
+    color:     rgb(255, 136, 0);
+}

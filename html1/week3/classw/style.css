@@ -1,0 +1,27 @@
+div{
+    width: 200px;
+    height: 200px;
+}
+.div1{
+    background-color: aqua;
+}
+.div2{
+    background-color: rebeccapurple;
+}
+.div3{
+    background-color: blue;
+}
+.div4{
+    background-color: green;
+}
+
+p {
+    font-size: 20px;
+    color: chocolate;
+}
+.p2{
+    font-size: 15px;
+}
+#id1{
+    color: blueviolet;
+}

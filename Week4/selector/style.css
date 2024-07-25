@@ -1,0 +1,12 @@
+.class1 a{
+    color: aqua;
+}
+
+
+.class1 a:hover{
+    color: red
+}
+
+.class1 a:visited{
+    color: darkmagenta;
+}

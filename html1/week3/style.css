@@ -1,0 +1,26 @@
+h1{
+    text-align: left;
+    color: blueviolet;
+}
+h2{
+    text-align: center;
+    color: blue;
+}
+h3{
+    text-align: right;
+    color: chocolate;
+}
+p{
+    background-color: bisque;
+}
+div{
+    height: 200px;
+    width: 200px;
+    background-color: beige;
+
+   
+}
+img{
+    height: 200px;
+    width: 200px;  
+}    
