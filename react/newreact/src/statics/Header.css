@@ -1,0 +1,28 @@
+h2{
+    color: blue;
+    font-size: 40px;
+}
+.container{
+    height: 70px;
+    border: 1px solid red;
+    border-bottom: 1px solid grey;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+.nav{
+    display: flex;
+    justify-content: center;
+    align-items: center ;
+    nav{
+        margin-left: 10px;
+    }
+    button{
+        height: 35px;
+        width: 150px;
+        background-color: blue;
+        color:white;
+        border: none;
+        border-radius: 10px;
+        margin-left: 10px;
+}}

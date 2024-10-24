@@ -1,0 +1,25 @@
+body{
+    margin: 0px;
+}
+
+div{
+    background-color: red;
+    padding: 20px;
+    margin: 20px;
+    border: 10px solid yellow;
+    display: inline;
+    width: 30px;
+    height: 30px;
+}
+
+section{
+    display: flex;
+    flex-direction: row-reverse;
+    height: 100vh;
+    background-color: bisque;
+    justify-content: center;
+    align-items: center;
+
+
+
+}

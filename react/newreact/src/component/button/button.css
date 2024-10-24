@@ -1,0 +1,26 @@
+.button-card{
+    height:70px;
+    width: 150px;
+    border-color: black;
+    color: black;
+    background: transparent;
+
+}
+
+.button-card1{
+    height:70px;
+    width: 200px;
+    border-color: black;
+    color: white;
+    background-color: black;
+
+}
+.button-card2{
+    height:80px;
+    width: 200px;
+    border-color: none;
+    color: white;
+    background-color: hotpink;
+
+}
+
